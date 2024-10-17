@@ -25,3 +25,5 @@ git clone https://github.com/moa23/Assignment2.git
 To install this project you need to have pip.
 
 ### Then you can run pip install .
+
+after this you shuold be able to use the functions in the script.
