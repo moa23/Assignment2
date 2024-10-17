@@ -1,0 +1,5 @@
+2024-10-17 09:19:14.492859 - sent to Alice: Good morning, {'name': 'Alice', 'email': 'abc@example.com', 'preferred_time': '08:00 AM'}! Have a great day! 
+2024-10-17 09:19:14.493003 - sent to Bob: Good morning, {'name': 'Bob', 'email': 'bcd@example.com', 'preferred_time': '09:00 AM'}! Have a great day! 
+2024-10-17 09:19:14.493046 - sent to Charlie: Good morning, {'name': 'Charlie', 'email': 'cde@example.com', 'preferred_time': '07:30 AM'}! Have a great day! 
+2024-10-17 09:19:14.493079 - sent to Mo: Good morning, {'name': 'Mo', 'email': '950995', 'preferred_time': '08:00'}! Have a great day! 
+2024-10-17 09:19:14.493123 - sent to Ali: Good morning, {'name': 'Ali', 'email': '9122225', 'preferred_time': '09:12'}! Have a great day! 
