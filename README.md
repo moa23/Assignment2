@@ -12,6 +12,16 @@ This repository contains two main components:
 
 ---
 
-To install this project you need to have pip. first you have to navigate to the directory containing setup.py Then you can run pip install .
+To install the package locally:
 
-## Project Structure
+### 1. Clone the repository
+
+### First, clone the GitHub repository to your local machine using the following command:
+
+git clone https://github.com/moa23/Assignment2.git
+
+### Navigate to the directory where the repository is cloned
+
+To install this project you need to have pip.
+
+### Then you can run pip install .
